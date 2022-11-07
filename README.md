@@ -3,7 +3,7 @@
 🔭 No momento estou aprendendo cada dia mais para a carreira de Desenvolvimento Web, 
 por isso ainda não estou trabalhando.
 
-🌱 Finalizei módulo de Front-End e Fundamentos na Trybe e atualmente estou aprendendo Back-End.
+🌱 Finalizei os módulos de Fundamentos e Front-End  (HTML | CSS | JavaScript | Redux | React | Testes RTL | Node.js) na Trybe e atualmente estou aprendendo Back-End.
 
 👯 Procuro estudar e me dedicar ao máximo na Trybe e também fora dela buscando informações que
 agreguem ao meu aprendizado na Internet, por exemplo no YouTube e Linkedin, leio livros que possam 
