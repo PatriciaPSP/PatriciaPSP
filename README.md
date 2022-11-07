@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**PatriciaPSP/PatriciaPSP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 No momento estou aprendendo cada dia mais para a carreira de Desenvolvimento Web, 
+por isso ainda não estou trabalhando.
 
-Here are some ideas to get you started:
+🌱 Finalizei módulo de Front-End e Fundamentos na Trybe e atualmente estou aprendendo Back-End.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👯 Procuro estudar e me dedicar ao máximo na Trybe e também fora dela buscando informações que
+agreguem ao meu aprendizado na Internet, por exemplo no YouTube e Linkedin, leio livros que possam 
+contribuir e me ajudar a evoluir.
+
+📫 Meu e-mail para contato psp_ha@hotmail.com
+
+📫 Meu Linkedin www.linkedin.com/in/patrícia-pedroso-dev
