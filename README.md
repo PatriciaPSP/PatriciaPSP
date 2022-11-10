@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 No momento estou em transição de carreira, vindo da área administrativa, estudando e aprendendo cada dia mais na Trybe para seguir na carreira de Desenvolvimento Web, por isso ainda não estou trabalhando.
+🔭 No momento estou em transição de carreira, vindo da área administrativa, estudando e aprendendo cada dia mais na Trybe para seguir na carreira de Desenvolvimento Web, por isso ainda não estou trabalhando. Tenho como meta evoluir cada dia mais em hard e softskills, pois é uma área que amo e é o objetivo da minha vida profissional.
 
 🌱 Finalizei os módulos de Fundamentos e Front-End  (HTML | CSS | JavaScript | Redux | React | Testes RTL | Node.js) e atualmente estou aprendendo no módulo de Back-End.
 
